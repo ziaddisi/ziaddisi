@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziaddisi
 - 👀 I’m interested in making websites and programming programs 
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m currently graduated in full stack development in Axsos institute  
 - 💞️ I’m looking to collaborate on making website with my colleuges 
 - 📫 How to reach me 0593220117
 - 😄 Pronouns: ...
